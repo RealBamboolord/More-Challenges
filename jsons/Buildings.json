@@ -17,6 +17,7 @@
 		"name": "Activate Challenges",
 		"uniques": ["Never destroyed when the city is captured","Unsellable","Only available <before discovering [AI Treats]>",
           		"Free Social Policy"]
+		"requiredTech": "Challenge"
 	},
 	{
 		"name": "Monument",
