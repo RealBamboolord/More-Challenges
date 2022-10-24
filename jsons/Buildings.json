@@ -15,7 +15,6 @@
 	},
 	{
 		"name": "Activate Challenges",
-		"cost": 0,
 		"uniques": ["Never destroyed when the city is captured","Unsellable","Only available <before discovering [AI Treats]>",
           		"Free Social Policy"]
 	},
