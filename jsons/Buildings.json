@@ -14,6 +14,11 @@
 		"uniques": ["Indicates the capital city"]
 	},
 	{
+		"name": "Palace Nullifier",
+		"uniques": ["Destroyed when the city is captured","Unbuildable", "Unsellable","[-3 Production, -3 Science, -3 Gold, -1 Culture] from every [Palace]",
+			"Hidden when [Palace Nullifier Challenge] Victory is disabled"]
+	},
+	{
 		"name": "Monument",
 		"culture": 2,
 		"cost": 40,
