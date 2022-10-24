@@ -43,7 +43,7 @@
                 "uniques": [
                     "Free Social Policy"
                 ],
-                "requires": ["Legalism"],
+                //"requires": ["Legalism"],
                 "row": 1,
                 "column": 7
             },
@@ -52,7 +52,7 @@
                 "uniques": [
                   "Stops the selection without giving you more Policies"
                 ],
-                "requires": ["Legalism"],
+                //"requires": ["Legalism"],
                 "row": 2,
                 "column": 1
             },
