@@ -24,10 +24,11 @@
                 "column": 1
             },
             {
-                "name": "Challenge 2",
+                "name": "No Culture Challenge",
                 "uniques": [
+                    "[-9999 Culture] [in all cities]"
                     "Free Social Policy",
-                    "Triggers the following global alert: [. Palace Nullifier Challenge was chosen!]"
+                    "Triggers the following global alert: [. No Culture Challenge was chosen!]"
                 ],
                 "row": 1,
                 "column": 3
