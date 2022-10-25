@@ -34,10 +34,11 @@
                 "column": 3
             },
             {
-                "name": "Challenge 3",
+                "name": "Blind Challenge",
                 "uniques": [
+                    "[-2] Sight <for [all] units>"
                     "Free Social Policy",
-                    "Triggers the following global alert: [. Palace Nullifier Challenge was chosen!]"
+                    "Triggers the following global alert: [. Blind Challenge was chosen!]"
                 ],
                 "row": 1,
                 "column": 5
