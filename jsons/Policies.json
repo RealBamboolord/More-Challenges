@@ -18,6 +18,7 @@
                 "uniques": [
                     "Free Social Policy",
                     "[-3 Production, -3 Science, -3 Gold, -1 Culture] from every [Palace]",
+                    "Triggers the following global alert: [Palace Nullifier Challenge was adopted!]"
                 ],
                 "row": 1,
                 "column": 1
@@ -25,7 +26,8 @@
             {
                 "name": "Challenge 2",
                 "uniques": [
-                    "Free Social Policy"
+                    "Free Social Policy",
+                    "Triggers the following global alert: [Palace Nullifier Challenge was adopted!]"
                 ],
                 "row": 1,
                 "column": 3
@@ -33,7 +35,8 @@
             {
                 "name": "Challenge 3",
                 "uniques": [
-                    "Free Social Policy"
+                    "Free Social Policy",
+                    "Triggers the following global alert: [Palace Nullifier Challenge was adopted!]"
                 ],
                 "row": 1,
                 "column": 5
@@ -41,7 +44,8 @@
             {
                 "name": "Challenge 4",
                 "uniques": [
-                    "Free Social Policy"
+                    "Free Social Policy",
+                    "Triggers the following global alert: [Palace Nullifier Challenge was adopted!]"
                 ],
                 //"requires": ["Legalism"],
                 "row": 1,
