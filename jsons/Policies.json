@@ -36,7 +36,7 @@
             {
                 "name": "Blind Challenge",
                 "uniques": [
-                    "[-2] Sight <for [all] units>"
+                    "[-2] Sight <for [non-air] units>"
                     "Free Social Policy",
                     "Triggers the following global alert: [. Blind Challenge was chosen!]"
                 ],
