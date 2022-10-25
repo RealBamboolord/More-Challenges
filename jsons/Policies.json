@@ -10,7 +10,8 @@
             "Scientific": 0
         },
         "uniques": [
-          "Free Social Policy"
+            "Only available <before discovering [AI Treats]>",
+            "Free Social Policy"
         ],
         "policies": [
             {
@@ -44,10 +45,17 @@
                 "column": 5
             },
             {
-                "name": "Challenge 4",
+                "name": "No Ranged Units Challenge",
                 "uniques": [
+                    "[-999]% Production when constructing [Archery] units [in this city]",
+                    "[-999]% Production when constructing [Ranged Gunpowder] units [in this city]",
+                    "[-999]% Production when constructing [Siege] units [in this city]",
+                    "[-999]% Production when constructing [Ranged Gunpowder] units [in this city]",
+                    "[-999]% Production when constructing [Ranged Water] units [in this city]",
+                    "[-999]% Production when constructing [Submarine] units [in this city]",
+                    "[-999]% Production when constructing [Missile] units [in this city]",
                     "Free Social Policy",
-                    "Triggers the following global alert: [. Palace Nullifier Challenge was chosen!]"
+                    "Triggers the following global alert: [. No Ranged Units Challenge was chosen!]"
                 ],
                 //"requires": ["Legalism"],
                 "row": 1,
