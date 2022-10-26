@@ -14,9 +14,9 @@ Added Challenges:
       Drastically reduces the movement points of your land units, letting even mounted units without mobility promotion walk only 1 tile per turn
 - Cursed Swim Challenge:
       Same effects, but for water units. Reduces by 6 movement points, so your ships need at least 8 movement points to move more than one tile.
-- Cursed March Challenge Extreme
-      'I have no idea how this is supposed to be beatable' -me
-      - simply removing the ability of all military units to move
+- Cursed March Challenge Extreme:
+      'I have no idea how this is supposed to be beatable' -me      
+      Simply removes the ability of all military units to move
       
       
 //Have fun
