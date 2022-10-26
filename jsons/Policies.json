@@ -107,6 +107,41 @@
                 "column": 13
             },
             {
+                "name": "Cursed March Challenge",
+                "uniques": [
+                    "[-3] Movement <for [Land] units>"
+                    "Free Social Policy",
+                    "Triggers the following global alert: [. Cursed March Challenge was chosen!]"
+                ],
+                //"requires": ["Legalism"],
+                "row": 1,
+                "column": 15
+            },
+            {
+                "name": "Cursed Swim Challenge",
+                "uniques": [
+                    "[-6] Movement <for [Water] units>"
+                    "Free Social Policy",
+                    "Triggers the following global alert: [. Cursed Swim Challenge was chosen!]"
+                ],
+                //"requires": ["Legalism"],
+                "row": 1,
+                "column": 17
+            },
+            {
+                "name": "Cursed March Challenge Extreme",
+                "uniques": [
+                    "[Military] units gain the [No Move] promotion"
+                    "Free Social Policy",
+                    "I have no idea how this is supposed to be beatable"
+                    "Dm me if you can beat Domination victory with this enabled (Difficulty Immortal/Deity)"
+                    "Triggers the following global alert: [. Cursed March Challenge Extreme was chosen!]"
+                ],
+                "requires": ["Cursed March Challenge","Cursed Swim Challenge"],
+                "row": 1,
+                "column": 16
+            },
+            {
                 "name": "End Challenge Selection",
                 "uniques": [
                   "Stops the selection without giving you more Policies"
