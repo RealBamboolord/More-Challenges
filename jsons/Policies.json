@@ -138,7 +138,7 @@
                     "Triggers the following global alert: [. Cursed March Challenge Extreme was chosen!]"
                 ],
                 "requires": ["Cursed March Challenge","Cursed Swim Challenge"],
-                "row": 1,
+                "row": 2,
                 "column": 16
             },
             {
