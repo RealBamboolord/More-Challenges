@@ -47,19 +47,64 @@
             {
                 "name": "No Ranged Units Challenge",
                 "uniques": [
-                    "[-999]% Production when constructing [Archery] units [in this city]",
-                    "[-999]% Production when constructing [Ranged Gunpowder] units [in this city]",
-                    "[-999]% Production when constructing [Siege] units [in this city]",
-                    "[-999]% Production when constructing [Ranged Gunpowder] units [in this city]",
-                    "[-999]% Production when constructing [Ranged Water] units [in this city]",
-                    "[-999]% Production when constructing [Submarine] units [in this city]",
-                    "[-999]% Production when constructing [Missile] units [in this city]",
+                    "[-999]% Production when constructing [Archery] units [in all cities]",
+                    "[-999]% Production when constructing [Ranged Gunpowder] units [in all cities]",
+                    "[-999]% Production when constructing [Siege] units [in all cities]",
+                    "[-999]% Production when constructing [Ranged Water] units [in all cities]",
+                    "[-999]% Production when constructing [Submarine] units [in all cities]",
+                    "[-999]% Production when constructing [Missile] units [in all cities]",
                     "Free Social Policy",
                     "Triggers the following global alert: [. No Ranged Units Challenge was chosen!]"
                 ],
                 //"requires": ["Legalism"],
                 "row": 1,
                 "column": 7
+            },
+            {
+                "name": "No Melee Units Challenge",
+                "uniques": [
+                    "[-999]% Production when constructing [Sword] units [in all cities]",
+                    "[-999]% Production when constructing [Gunpowder] units [in all cities]",
+                    "[-999]% Production when constructing [Mounted] units [in all cities]",
+                    "[-999]% Production when constructing [Armored] units [in all cities]",
+                    "[-999]% Production when constructing [Melee Water] units [in all cities]",
+                    //"[-999]% Production when constructing [Aircraft Carrier] units [in all cities]",
+                    "[-999]% Production when constructing [Helicopter] units [in all cities]",
+                    "Free Social Policy",
+                    "Triggers the following global alert: [. No Melee Units Challenge was chosen!]"
+                ],
+                //"requires": ["Legalism"],
+                "row": 1,
+                "column": 9
+            },
+            {
+                "name": "No Planes Challenge",
+                "uniques": [
+                    "[-999]% Production when constructing [Fighter] units [in all cities]",
+                    "[-999]% Production when constructing [Bomber] units [in all cities]",
+                    "[-999]% Production when constructing [Atomic Bomber] units [in all cities]",
+                    "[-999]% Production when constructing [Missile] units [in all cities]",
+                    "[-999]% Production when constructing [Aircraft Carrier] units [in all cities]",
+                    "[-999]% Production when constructing [Helicopter] units [in all cities]",
+                    "Free Social Policy",
+                    "Triggers the following global alert: [. No Planes Challenge was chosen!]"
+                ],
+                //"requires": ["Legalism"],
+                "row": 1,
+                "column": 11
+            },
+            {
+                "name": "No Civilian Challenge",
+                "uniques": [
+                    "[-999]% Production when constructing [Civilian] units [in all cities]",
+                    "[-999]% Production when constructing [Civilian Water] units [in all cities]",
+                    "[-999]% Great Person generation [in all cities]",
+                    "Free Social Policy",
+                    "Triggers the following global alert: [. No Civilians Challenge was chosen!]"
+                ],
+                //"requires": ["Legalism"],
+                "row": 1,
+                "column": 13
             },
             {
                 "name": "End Challenge Selection",
