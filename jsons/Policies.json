@@ -147,7 +147,7 @@
                     //"Dm me if you can beat Domination victory with this enabled (Difficulty Immortal/Deity)"
                     "Triggers the following global alert: [. Totally Blind Challenge was chosen!]"
                 ],
-                "requires": ["Cursed March Challenge","Cursed Swim Challenge"],
+                "requires": ["Blind Challenge"],
                 "row": 2,
                 "column": 5
             },
