@@ -139,6 +139,19 @@
                 "column": 2
             },
             {
+                "name": "Totally Blind Challenge",
+                "uniques": [
+                    "[All] units gain the [Totally Blind] promotion"
+                    "Free Social Policy",
+                    //"I have no idea how this is supposed to be beatable"
+                    //"Dm me if you can beat Domination victory with this enabled (Difficulty Immortal/Deity)"
+                    "Triggers the following global alert: [. Totally Blind Challenge was chosen!]"
+                ],
+                "requires": ["Cursed March Challenge","Cursed Swim Challenge"],
+                "row": 2,
+                "column": 5
+            },
+            {
                 "name": "Cursed March Challenge Extreme",
                 "uniques": [
                     "[Military] units gain the [No Move] promotion"
@@ -158,7 +171,7 @@
                 ],
                 //"requires": ["Legalism"],
                 "row": 2,
-                "column": 5
+                "column": 18
             },
             {
                 "name": "Challenges Complete",
