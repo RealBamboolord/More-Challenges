@@ -3,4 +3,8 @@
 		"name": "No Move",
 		"uniques": ["Cannot move"],
 	},
+	{
+		"name": "Totally Blind",
+		"uniques": ["No Sight"],
+	},
   ]
