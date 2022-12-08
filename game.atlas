@@ -18,6 +18,13 @@ PolicyIcons/Blind Challenge
   orig: 50, 50
   offset: 0, 0
   index: -1
+PolicyIcons/Totally Blind Challenge
+  rotate: false
+  xy: 818, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 PolicyIcons/Challenge Palace Nullifier
   rotate: false
   xy: 4, 12
@@ -89,6 +96,13 @@ PolicyIcons/No Ranged Units Challenge
   offset: 0, 0
   index: -1
 UnitPromotionIcons/No Move
+  rotate: false
+  xy: 436, 12
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Totally Blind
   rotate: false
   xy: 436, 12
   size: 100, 100
