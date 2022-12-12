@@ -1,7 +1,4 @@
 [
-	// Ancient Era
-
-	// Always available
 	{
 		"name": "Palace",
 		"isNationalWonder": true,
@@ -21,6 +18,8 @@
 			    "Only available <before adopting [Tradition]>",
 			    "Only available <before adopting [Liberty]>",
 			    "Only available <before adopting [Honor]>",
+			    "Only available <before [5] turns>",
+			    "Only available <in cities with a [Palace]>",
           		"Free Social Policy"]
 	},
 	]
