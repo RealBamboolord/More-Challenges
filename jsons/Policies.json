@@ -47,12 +47,12 @@
             {
                 "name": "No Ranged Units Challenge",
                 "uniques": [
-                    "[-999]% Production when constructing [Archery] units [in all cities]",
-                    "[-999]% Production when constructing [Ranged Gunpowder] units [in all cities]",
-                    "[-999]% Production when constructing [Siege] units [in all cities]",
-                    "[-999]% Production when constructing [Ranged Water] units [in all cities]",
-                    "[-999]% Production when constructing [Submarine] units [in all cities]",
-                    "[-999]% Production when constructing [Missile] units [in all cities]",
+                    "Cannot build [Archery] units",
+                    "Cannot build [Ranged Gunpowder] units",
+                    "Cannot build [Siege] units",
+                    "Cannot build [Ranged Water] units",
+                    "Cannot build [Submarine] units",
+                    "Cannot build [Missile] units",
                     "Free Social Policy",
                     "Triggers the following global alert: [. No Ranged Units Challenge was chosen!]"
                 ],
@@ -63,13 +63,12 @@
             {
                 "name": "No Melee Units Challenge",
                 "uniques": [
-                    "[-999]% Production when constructing [Sword] units [in all cities]",
-                    "[-999]% Production when constructing [Gunpowder] units [in all cities]",
-                    "[-999]% Production when constructing [Mounted] units [in all cities]",
-                    "[-999]% Production when constructing [Armored] units [in all cities]",
-                    "[-999]% Production when constructing [Melee Water] units [in all cities]",
-                    //"[-999]% Production when constructing [Aircraft Carrier] units [in all cities]",
-                    "[-999]% Production when constructing [Helicopter] units [in all cities]",
+                    "Cannot build [Sword] units",
+                    "Cannot build [Gunpowder] units",
+                    "Cannot build [Mounted] units",
+                    "Cannot build [Armored] units",
+                    "Cannot build [Melee Water] units",
+                    "Cannot build [Helicopter] units",
                     "Free Social Policy",
                     "Triggers the following global alert: [. No Melee Units Challenge was chosen!]"
                 ],
@@ -80,12 +79,12 @@
             {
                 "name": "No Planes Challenge",
                 "uniques": [
-                    "[-999]% Production when constructing [Fighter] units [in all cities]",
-                    "[-999]% Production when constructing [Bomber] units [in all cities]",
-                    "[-999]% Production when constructing [Atomic Bomber] units [in all cities]",
-                    "[-999]% Production when constructing [Missile] units [in all cities]",
-                    "[-999]% Production when constructing [Aircraft Carrier] units [in all cities]",
-                    "[-999]% Production when constructing [Helicopter] units [in all cities]",
+                    "Cannot build [Fighter] units",
+                    "Cannot build [Bomber] units",
+                    "Cannot build [Atomic Bomber] units",
+                    "Cannot build [Missile] units",
+                    "Cannot build [Aircraft Carrier] units",
+                    "Cannot build [Helicopter] units",
                     "Free Social Policy",
                     "Triggers the following global alert: [. No Planes Challenge was chosen!]"
                 ],
@@ -96,8 +95,8 @@
             {
                 "name": "No Civilian Challenge",
                 "uniques": [
-                    "[-999]% Production when constructing [Civilian] units [in all cities]",
-                    "[-999]% Production when constructing [Civilian Water] units [in all cities]",
+                    "Cannot build [Civilian] units",
+                    "Cannot build [Civilian Water] units",
                     "[-999]% Great Person generation [in all cities]",
                     "Free Social Policy",
                     "Triggers the following global alert: [. No Civilians Challenge was chosen!]"
