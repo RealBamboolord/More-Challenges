@@ -27,7 +27,7 @@
             {
                 "name": "No Culture Challenge",
                 "uniques": [
-                    "[-9999 Culture] [in all cities]"
+                    "Nullifies [Culture] [in all cities]",
                     "Free Social Policy",
                     "Triggers the following global alert: [. No Culture Challenge was chosen!]"
                 ],
@@ -131,11 +131,24 @@
                 "name": "No Wonders Challenge",
                 "uniques": [
                   "Free Social Policy",
-                  "[-999]% Production when constructing [All] wonders [in all cities]"
+                  "[-999]% Production when constructing [All] wonders [in all cities]",
+                  "Triggers the following global alert: [. No Wonders Challenge was chosen!]"
+               
                 ],
                 //"requires": ["Legalism"],
                 "row": 2,
                 "column": 2
+            },
+            {
+                "name": "No Faith Challenge",
+                "uniques": [
+                  "Free Social Policy",
+                  "Nullifies [Faith] [in all cities]",
+                  "Triggers the following global alert: [. No Faith Challenge was chosen!]"
+                ],
+                //"requires": ["Legalism"],
+                "row": 2,
+                "column": 4
             },
             {
                 "name": "Totally Blind Challenge",
@@ -148,7 +161,43 @@
                 ],
                 "requires": ["Blind Challenge"],
                 "row": 2,
-                "column": 5
+                "column": 6
+            },
+            {
+                "name": "Constant Riots",
+                "uniques": [
+                  "Free Social Policy",
+                  "Rebel units may spawn",
+                  "[-33]% Strength <vs [Barbarian] units>",
+                  "Triggers the following global alert: [. Constant Riots Challenge was chosen!]"
+                ],
+                //"requires": ["Legalism"],
+                "row": 2,
+                "column": 8
+            },
+            {
+                "name": "Barbarian Traits Challenge",
+                "uniques": [
+                  "Free Social Policy",
+                  "Can only heal by pillaging",
+                  "Triggers the following global alert: [. Barbarian Traits Challenge was chosen!]"
+                ],
+                //"requires": ["Legalism"],
+                "row": 2,
+                "column": 10
+            },
+            {
+                "name": "Too Much Beer Challenge",
+                "uniques": [
+                  "Free Social Policy",
+                  "Gain a free [Party] [in all cities]",
+                  "This halts Science, Production and Gold output of a city during WLTK day, but enhances Culture output a bit and Accelerates Growth",
+                  "And I will not explain the logic behind this",
+                  "Triggers the following global alert: [. Too Much Beer Challenge was chosen!]"
+                ],
+                //"requires": ["Legalism"],
+                "row": 2,
+                "column": 12
             },
             {
                 "name": "Cursed March Challenge Extreme",
