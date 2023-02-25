@@ -22,4 +22,11 @@
 			    "Only available <in cities with a [Palace]>",
           		"Free Social Policy"]
 	},
+        {
+                "name": "Party",
+                "cost": 1,
+                "uniques": ["[41]% growth [in this city] <during We Love The King Day>","Nullifies [Science] [in this city] <during We Love The King Day>",
+                        "Nullifies [Production] [in this city] <during We Love The King Day>","Nullifies [Gold] [in this city] <during We Love The King Day>","[+15]% [Culture] [in this city] <during We Love The King Day>"
 	]
+}
+]
